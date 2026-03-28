@@ -111,8 +111,7 @@ const Index = () => {
         <div className="text-center py-8 animate-fade-in">
           <div className="flex items-center justify-between mb-6">
             <div className="flex-1"></div>
-            <h1 className="text-5xl font-bold bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent flex items-center justify-center gap-4">
-              <Clock className="text-primary animate-pulse" size={48} />
+            <h1 className="text-5xl font-bold bg-gradient-to-r from-primary to-primary/60 bg-clip-text text-transparent">
               TypeMaster Pro
             </h1>
             <div className="flex-1 flex justify-end">
